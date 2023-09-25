@@ -7,4 +7,4 @@ A Toggle with the Switch Style is very popular in all branches of Frontend Devel
 
 ![ToggleDemoToConvertToGif-2](https://github.com/Sailor-Saturn/Switch-Toggle-TCA-SwiftUI/assets/46728174/39f3e58d-9cc9-4507-97f7-c779af91182e)
 
-Check my Story on Medium: 
+Check my Story on Medium: https://sailor-saturn.medium.com/crafting-custom-colored-switch-toggles-in-swiftui-with-tca-3209ea8cc4e8
